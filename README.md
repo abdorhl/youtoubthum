@@ -16,7 +16,7 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/nextjs-thumbnail-project.git
+   git clone https://github.com/abdorhl/youtoubthum.git
    ```
 
 2. Navigate to the project directory:
